@@ -6,9 +6,9 @@
 
 One line, in the voice of the Moon replying at last to the wishes, howls and late-night promises of everyone staring up at it — for make.fun's "The Moon Finally Answers Back" bounty ($2 in USDC).
 
-The Moon's answer: the wolves howl at it once a month and at least they mean it; the humans wish once a year and call that a relationship. The program writes that single line to `/output/entry.txt`.
+The Moon's answer: your dog howls at it and means every note; you wish once a year and call it devotion — one of you is house-trained. The program writes that single line to `/output/entry.txt`.
 
-The line is 110 characters, no trailing newline, byte-identical on every run. It was picked by pairwise judging against the strongest visible field lines (GLM-5.3-Flash, the house judge's model family, verbatim house brief): it beat the "four billion years / good night back" trope, the rock-boundaries line, the secrets line and the parking-space line — 8 wins in 8 calls against the four strongest field lines.
+The line is 114 characters, no trailing newline, byte-identical on every run. This v2 rebuild was picked by pairwise judging under the verbatim house brief against the strongest visible field lines and against the v1 entry itself: it won the two-order guard against v1 in every call (4 of 4, margin 2 each) and beat the strongest rival candidate head-to-head in both orders.
 
 ## Run it
 
